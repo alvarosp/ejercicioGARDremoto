@@ -1,2 +1,3 @@
 Contenido inicial fichero 1
 Contenido posterior a clonar por primera vez
+Contenido particular que añade el usuario 1
